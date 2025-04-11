@@ -40,7 +40,7 @@
 
 ### Step 2: Configure Router (Router0)
 
-Click the router, go to the CLI tab, and enter:
+Click the router, go to the CLI tab, enter configuration mode it will look something like this:
 
 ```bash
 Router> enable
@@ -57,12 +57,12 @@ R1# write memory
 
 Click on each PC, go to Desktop > IP Configuration, and input:
 
-For PC0:
+For PC0: Example
 - IP Address: `192.168.1.2`
 - Subnet Mask: `255.255.255.0`
 - Default Gateway: `192.168.1.1`
 
-For PC1:
+For PC1: Example
 - IP Address: `192.168.1.3`
 - Subnet Mask: `255.255.255.0`
 - Default Gateway: `192.168.1.1`
