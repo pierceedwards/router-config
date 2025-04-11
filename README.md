@@ -1,6 +1,6 @@
 <p align="center">
   
-  ![image](https://github.com/user-attachments/assets/2e9d4c37-bd72-4650-9c70-3d83f9d312bd)
+ ![image](https://github.com/user-attachments/assets/d65802fb-017b-4877-8dec-42f77eb8e833)
 
 
 <h1 align="center">Basic Router Configuration in Cisco Packet Tracer</h1>
